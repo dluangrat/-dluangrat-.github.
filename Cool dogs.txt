@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Cool Dogs </h1>
+<a href="http://www.wikipedia.com/French_Bulldog>French Bulldog information</a>
+<img src="french bulldog.jpg"
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
